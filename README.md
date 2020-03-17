@@ -1,9 +1,9 @@
 # HF 22.8125
 this soft fork is only for the HF22.1 + HF22.2 + HF 22.5 = HF 22.8125
-1 for HF22.1 of pre-steem 
-2 for HF22.2 of pre-TOP witness 
-3 for HF22.5 of TRON
-8 for 1+2+5=8 of the future steem
+_*1*_ for HF22.1 of pre-steem 
+_*2*_ for HF22.2 of pre-TOP witness 
+_*3*_ for HF22.5 of TRON
+_*8*_ for 1+2+5=8 of the future steem
 
 all the codes are the same as HF22.1, and only change the version .
 
